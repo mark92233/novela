@@ -1,4 +1,3 @@
-
 <?php
     $bookTitle = "Gone too close too fast";
     $safeBookTitle = htmlspecialchars($bookTitle, ENT_QUOTES, 'UTF-8');

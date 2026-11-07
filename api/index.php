@@ -1,4 +1,3 @@
-
 <?php
 $bookTitle = "Gone too close too fast";
 $subtitle = "When Being Together Became Harder Than Falling Together";

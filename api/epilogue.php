@@ -1,4 +1,3 @@
-
 <?php
     $bookTitle = "Gone too close too fast";
     $epilogueTitle = "One Last Thing";
