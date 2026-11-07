@@ -1,0 +1,27 @@
+
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "*.php": {
+      "runtime": "vercel-php@0.9.0"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/index.php"
+    },
+    {
+      "source": "/reading",
+      "destination": "/reading.php"
+    },
+    {
+      "source": "/content",
+      "destination": "/content.php"
+    },
+    {
+      "source": "/epilogue",
+      "destination": "/epilogue.php"
+    }
+  ]
+}
