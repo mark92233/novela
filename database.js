@@ -132,6 +132,7 @@ const novelData = {
             Belle greeted him with a shy smile.
 
             "Hey. You've finally arrived," 
+            
             he replied, smiling back.
 
             There was a brief moment of awkwardness, the kind that naturally happens when two people who have grown familiar through messages suddenly find themselves standing face-to-face.
@@ -264,6 +265,7 @@ const novelData = {
             Then came the first questionable decision made by one of the movie's characters.
 
             "Why would he go there?!" 
+           
             Belle whispered, almost immediately breaking the silence.
 
             MJ turned toward her.
@@ -1434,5 +1436,589 @@ const novelData = {
             `,
 
         },
+
+        {
+    id: 8,
+    title: "The Things We Don't Say",
+    content: `Coming home felt different this time.
+
+    Belle had finally returned to her dorm after spending some time away. She was tired from the trip, but there were other things occupying her mind, particularly the unresolved situation between her and Maria.
+
+    Things hadn't exactly returned to normal.
+
+    They still exchanged a few words whenever they crossed paths. Sometimes, they talked about ordinary things, shared small updates, or even brought up MJ in their conversations. Nothing particularly unusual, but there was an obvious difference in the way they interacted.
+
+    It felt as though both of them were carefully choosing which subjects to avoid.
+
+    Belle wanted to talk about what happened. She wanted to understand Maria's side of things, perhaps explain her own, and hopefully put an end to the awkwardness that had been following them.
+
+    But every time she considered bringing it up, she found herself hesitating.
+
+    **Maybe I'll just give her some time.**
+
+    It was easier to convince herself that things would eventually settle down on their own.
+
+    So, for the meantime, she continued with her usual routine, occasionally exchanging messages with friends and keeping herself occupied with school.
+
+
+    A few days later, Belle encountered a problem she couldn't exactly put off.
+
+    Her laptop.
+
+    The LCD screen had been broken for quite some time, and although she had managed to work around the problem before, attending online classes had become increasingly difficult.
+
+    She needed another device, at least temporarily.
+
+    After considering her options, one particular person came to mind.
+
+    MJ.
+
+    She picked up her phone and opened their conversation.
+
+    For a moment, she stared at the message field, thinking about how to approach him. It wasn't that she was particularly nervous about asking. They had already become comfortable enough with each other to make such requests.
+
+    Still, she found herself smiling before even typing anything.
+
+    "Hey, are you busy?"
+
+    She sent the message and waited.
+
+    It didn't take long before her phone lit up.
+
+    "Depends. Why?"
+
+    Belle chuckled at his response.
+
+    "Can I borrow your laptop? My LCD is still broken, and I have an online class."
+
+    "HAHAHAHA."
+
+    "What's funny?"
+
+    "Nothing. Sure, when?"
+
+    "Later? I'll just attend my class there if that's okay."
+
+    "Yeah, no problem."
+
+    Belle placed her phone down, wearing a small smile.
+
+    **At least I have a reason to go there now.**
+
+    She knew perfectly well that she could have looked for other alternatives. She could have borrowed a laptop from another friend or found somewhere else to attend her class.
+
+    But MJ was the person she had thought of first.
+
+    And perhaps that was already enough of an explanation.
+
+
+    Later that day, Belle began preparing her things.
+
+    Her friends noticed that she was getting ready to leave and naturally became curious.
+
+    "Where are you going?"
+
+    "Outside."
+
+    "Obviously. Where?"
+
+    "Sa dorm ni MJ."
+
+    One of them immediately looked at her.
+
+    "Again?"
+
+    Belle glanced at her friend before continuing to pack her things.
+
+    "My laptop's broken. I have an online class, remember?"
+
+    "And MJ is suddenly your personal technician?"
+
+    "He's a CS major. Let him figure out what's wrong with it."
+
+    Her friends laughed.
+
+    "Right. Very convenient."
+
+    Belle rolled her eyes, trying to hide the smile creeping onto her face.
+
+    "What's wrong with that?"
+
+    "Nothing. Nothing at all."
+
+    She shook her head and continued preparing.
+
+    The explanation was reasonable enough. MJ knew his way around computers, and she genuinely needed a working laptop for her class.
+
+    But there was another reason she wasn't particularly interested in mentioning.
+
+    **I just want to see him.**
+
+    It was a simple thought, one she didn't bother questioning any further.
+
+    She gathered her things, said goodbye to her friends, and headed toward MJ's dorm.
+
+
+    By the time Belle arrived, MJ had already prepared his laptop for her.
+
+    He greeted her casually as she entered, moving a few things around to make space.
+
+    "You're here."
+
+    "Obviously."
+
+    MJ laughed.
+
+    "Come in. The laptop's here."
+
+    Belle placed her belongings on the table and took a seat.
+
+    "Thank you, by the way."
+
+    "No problem."
+
+    "Hopefully, my laptop doesn't decide to cooperate after I get here."
+
+    "HAHAHAHA. Then at least we'll know what the problem is."
+
+    She laughed and started setting up her things.
+
+    After connecting to the internet and checking her class schedule, Belle opened the meeting link and prepared her earphones.
+
+    MJ returned to whatever he had been doing, occasionally glancing in her direction to see if everything was working properly.
+
+    "Is it okay?"
+
+    "Yeah, it's working."
+
+    "Good."
+
+    Belle adjusted her seat and looked at the screen.
+
+    Her class was about to begin.
+
+    For a while, she tried to focus. She listened to the instructor, checked the presentation, and even attempted to take a few notes.
+
+    But it didn't take long before her attention wandered.
+
+    She glanced at MJ.
+
+    Then at her phone.
+
+    Then back at MJ.
+
+    "Hey."
+
+    MJ looked at her.
+
+    "Hmm?"
+
+    "Can I ask you something?"
+
+    "You're already asking."
+
+    Belle laughed.
+
+    "I'm serious."
+
+    "Okay. What's up?"
+
+
+    Their conversation eventually returned to Maria.
+
+    Belle explained that things between them still hadn't improved. They occasionally talked, but neither seemed willing to address what had happened.
+
+    "She still hasn't talked to me about it," 
+    
+    Belle said.
+
+    MJ glanced at her.
+
+    "Like, at all?"
+
+    "Not really. We have little conversations here and there, but it's different."
+
+    "Have you tried talking to her?"
+
+    Belle sighed.
+
+    "I don't know what to say."
+
+    "Then maybe start with that."
+
+    She gave him a look.
+
+    "Wow. Very helpful."
+
+    MJ chuckled.
+
+    "What? I'm serious."
+
+    "I know, but it's not that easy."
+
+    "Never said it was."
+
+    Belle layed down on his bed.
+
+    "I just thought things would be okay by now."
+
+    MJ listened before responding.
+
+    "Maybe she just needs time."
+
+    "Or maybe she's waiting for me to do something."
+
+    "Could be."
+
+    Belle looked down at her phone, scrolling through a few messages before putting it aside.
+
+    "I don't even know anymore."
+
+    MJ shrugged slightly.
+
+    "You can't really force someone to talk about something they're not ready to discuss."
+
+    Belle nodded.
+
+    It wasn't necessarily the answer she wanted, but it made sense.
+
+    She appreciated that MJ didn't immediately take sides or make assumptions about Maria. He simply listened, offering his thoughts whenever he felt they might help.
+
+    Meanwhile, her online class continued in the background.
+
+    The instructor had already moved on to another discussion, but Belle was barely keeping up.
+
+    "Are you even listening to your class?"
+    
+    MJ eventually asked.
+
+    Belle immediately looked at her laptop.
+
+    "Of course."
+
+    He raised an eyebrow.
+
+    "Really?"
+
+    "Yes."
+
+    "Then what did your instructor just say?"
+
+    Belle paused.
+
+    She looked at the screen, then back at him.
+
+    "Shut up."
+
+    MJ burst into laughter.
+
+    "HAHAHAHA. You're going to have a hard time catching up."
+
+    "I'll manage."
+
+    "Sure."
+
+    Belle laughed and returned her attention to the laptop.
+
+    Although, judging by how quickly she turned back toward MJ a few seconds later, it was obvious that the class wasn't exactly her priority that afternoon.
+
+    **I can always ask someone for the notes later.**
+
+    She smiled to herself.
+
+    MJ, meanwhile, seemed perfectly content with the company.
+
+
+    As their conversation continued, the subject gradually shifted away from Maria.
+
+    They talked about school, personal experiences, and a few random things that neither of them had particularly planned to discuss.
+
+    It was one of those conversations that moved naturally from one topic to another.
+
+    At some point, Belle became curious about MJ's family.
+
+    Perhaps it was the way he talked about his life, or maybe she simply wanted to know more about the person she had been spending so much time with.
+
+    "Can I ask you something, MJ?"
+
+    "Sure."
+
+    "How's your family?"
+
+    MJ looked at her.
+
+    "What about them?"
+
+    "I don't know. Like, do you have siblings? Are you close with your parents?"
+
+    He paused briefly.
+
+    "Well, I don't really have a complete family."
+
+    Belle turned toward him.
+
+    "What do you mean?"
+
+    MJ leaned back slightly.
+
+    "I never had a father."
+
+    The statement came out rather plainly.
+
+    Belle didn't immediately respond.
+
+    She had expected him to talk about something else, perhaps his siblings or the usual family stories people shared whenever the subject came up.
+
+    But that wasn't what he meant.
+
+    "Oh."
+
+    MJ continued.
+
+    "It was just me and my mom growing up."
+
+    Belle listened quietly.
+
+    "Was it difficult?"
+
+    He gave a small shrug.
+
+    "Sometimes. I guess you just get used to things."
+
+    There was a brief pause.
+
+    MJ looked down before continuing.
+
+    "My mother passed away, too."
+
+    Belle froze for a moment.
+
+    "Wait. Your mom?"
+
+    He nodded.
+
+    "Yeah. She's gone."
+
+    The words were simple, almost matter-of-fact.
+
+    But their weight was something Belle couldn't easily ignore.
+
+    She looked at him, trying to find the right words.
+
+    "I'm sorry, MJ."
+
+    He nodded.
+
+    "It's okay."
+
+    Belle wasn't entirely sure what to say after that.
+
+    She wanted to ask more, but she didn't want to make him uncomfortable. She didn't want to turn something so personal into an interrogation.
+
+    So she let him continue at his own pace.
+
+
+    MJ began sharing a little more about his life.
+
+    He talked about growing up without a father, about having his mother as the only parent he knew, and eventually having to live with the reality that she was no longer around.
+
+    He didn't make the story sound more tragic than it was.
+
+    There were no exaggerated expressions of sadness or attempts to gain sympathy. He simply told Belle the truth about something she had never known.
+
+    For someone who usually kept things lighthearted, he was surprisingly open that afternoon.
+
+    Belle listened without interrupting.
+
+    She had spent so much time getting to know the little details about him that she hadn't considered how many important things remained unknown.
+
+    The person who made her laugh through ordinary conversations had an entirely different story behind him.
+
+    And now, he was letting her see a part of it.
+
+    "I didn't know that," 
+    
+    Belle eventually said.
+
+    MJ looked at her.
+
+    "Well, you never really asked."
+
+    Belle gave a small nod.
+
+    "Yeah. I guess I didn't."
+
+    She fell quiet.
+
+    There was something about the way he had told her everything that made the conversation feel different.
+
+    It wasn't simply another story exchanged between two people getting to know each other.
+
+    It was something personal.
+
+    Something he could have easily chosen not to share.
+
+    And for some reason, Belle found herself thinking about it long after he had finished speaking.
+
+
+    The conversation gradually slowed down.
+
+    The instructor's voice continued playing through the laptop, occasionally interrupted by the sound of other students participating in the discussion.
+
+    But Belle wasn't listening anymore.
+
+    Her attention had shifted somewhere else.
+
+    She looked down at her hands, quietly processing everything MJ had just told her.
+
+    She thought about his childhood.
+
+    About growing up without a father.
+
+    About losing the one person who had been there for him.
+
+    Then, almost unexpectedly, her thoughts shifted to someone else.
+
+    Her son.
+
+    She remembered his face, the little things he used to do, and the moments she had missed while being occupied with everything else happening in her life.
+
+    She thought about the times she could have been there but wasn't.
+
+    The times she had convinced herself that there would always be another opportunity.
+
+    And suddenly, the thought of motherhood became heavier than it had ever felt before.
+
+    **What if he grows up feeling the same way?**
+
+    The question appeared in her mind before she could stop it.
+
+    Belle swallowed.
+
+    She knew MJ's circumstances were different from her son's. She couldn't possibly compare their experiences as though they were the same.
+
+    But hearing someone talk about the absence of a parent made her realize something she had been avoiding.
+
+    A child could grow up remembering the people who weren't there.
+
+    And she had someone who needed her.
+
+    Someone who didn't necessarily understand the reasons behind her absence.
+
+    Someone who might simply wonder why his mother wasn't always around.
+
+    Her chest tightened.
+
+    **Am I being a good mother?**
+
+    She tried to push the thought away, but it remained.
+
+    It wasn't that she didn't love her son. She did.
+
+    But love and presence weren't always the same thing.
+
+    She could tell herself that she was doing her best, that circumstances were complicated, and that things would eventually become better.
+
+    Yet none of those explanations could completely erase the guilt she was feeling.
+
+    For the first time that afternoon, Belle wished she could take back some of the time she had spent putting everything else ahead of what truly mattered.
+
+    She lowered her gaze.
+
+    MJ had just finished telling her about the people he had lost.
+
+    Belle remained quiet for a while.
+
+The online class was still ongoing, but she had completely lost track of the discussion. Her laptop remained open in front of her, displaying a presentation she hadn't bothered reading.
+
+She glanced at MJ.
+
+He was sitting nearby, seemingly unaware of the thoughts racing through her mind.
+
+Belle wanted to say something.
+
+Perhaps she wanted to thank him for trusting her enough to share something so personal. Perhaps she wanted to ask more about his mother.
+
+But there was another conversation happening inside her head, one she wasn't prepared to have with anyone.
+
+**I need to be there for him.**
+
+She looked down again.
+
+For a moment, she wondered how many more opportunities she would have to make things right.
+
+She had come to MJ's dorm that afternoon with a simple excuse. Her laptop was broken, she needed somewhere to attend her online class, and he happened to have a working computer.
+
+She hadn't expected their conversation to turn into something so personal.
+
+She certainly hadn't expected to leave with so much weighing on her mind.
+
+And yet, there she was.
+
+Sitting across from someone who had just shared a part of his life she had never known, while quietly confronting a part of her own that she had spent so much time avoiding.
+
+Belle took a deep breath.
+
+There was something she had been meaning to tell him for quite some time. Something she had considered bringing up on several occasions but always ended up postponing.
+
+Perhaps hearing MJ talk about his family had finally given her the courage to do so.
+
+"MJ?"
+
+He turned toward her.
+
+"Hmm?"
+
+Belle hesitated.
+
+She looked at her hands, briefly playing with her fingers as she tried to organize the words in her head.
+
+"There's actually something I haven't told you."
+
+MJ waited.
+
+Belle swallowed before continuing.
+
+"I have a son."
+
+The words came out quietly.
+
+For a moment, she didn't say anything else.
+
+Then she continued, explaining that she was a mother and that there was a little boy in her life she hadn't really talked about before.
+
+She didn't immediately go into every detail. She didn't know where to begin, or how much she should explain. All she knew was that she didn't want to keep that part of herself hidden from him anymore.
+
+"I'm a single mother, MJ."
+
+She finally said it.
+
+The words lingered between them.
+
+Belle looked at him, waiting.
+
+She had imagined this moment several times before. She had wondered how she would tell him, what words she would use, and whether she would ever find the courage to be completely honest.
+
+Now that she had finally said it, she couldn't help feeling nervous.
+
+**What if this changes everything?**
+
+She remembered their previous conversations, the things MJ had shared about his past, and the possibility that this revelation might change the way he saw her.
+
+She wanted to explain more.
+
+She wanted him to understand that there was more to her story than what he knew.
+
+But for now, she had said enough.
+
+Belle remained seated, waiting for whatever would come next.
+
+And for the first time that afternoon, she wasn't entirely sure what to expect from the person sitting across from her.
+
+She had finally told him.
+
+Now, all that was left was to hear what he had to say.`
+},
+        
     ]
 };
