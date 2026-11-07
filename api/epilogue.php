@@ -570,7 +570,7 @@
 
         <div class="max-w-4xl mx-auto px-5 h-[68px] flex items-center justify-between">
 
-            <a href="content.php"
+            <a href="/content.php"
                 class="group flex items-center gap-3 text-sm font-semibold text-blue-600 dark:text-rose-400">
 
                 <span class="w-9 h-9 rounded-xl flex items-center justify-center bg-blue-50 dark:bg-rose-500/10 border border-blue-100 dark:border-rose-500/20 transition-all group-hover:-translate-x-1">
@@ -797,7 +797,7 @@
                     You have reached the end of this chapter of their lives. Perhaps there is still more to come.
                 </p>
 
-                <a href="content.php"
+                <a href="/content.php"
                     class="back-link flex items-center justify-between w-full p-4 sm:p-5 rounded-2xl bg-blue-50/80 dark:bg-rose-500/[.08] border border-blue-100 dark:border-rose-500/20 hover:bg-blue-100/80 dark:hover:bg-rose-500/[.13]">
 
                     <span class="text-sm font-bold text-blue-700 dark:text-rose-400">

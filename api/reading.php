@@ -482,7 +482,7 @@
     <header class="glass-header sticky top-0 z-50">
         <div class="max-w-5xl mx-auto px-5 h-[68px] flex items-center justify-between">
 
-            <a href="content.php"
+            <a href="/content.php"
                 class="group flex items-center gap-3 text-sm font-semibold text-blue-600 dark:text-rose-400">
 
                 <span class="w-9 h-9 rounded-xl flex items-center justify-center bg-blue-50 dark:bg-rose-500/10 border border-blue-100 dark:border-rose-500/20 transition-transform group-hover:-translate-x-1">
@@ -594,7 +594,7 @@
             <div class="grid grid-cols-2 gap-3 sm:gap-5">
 
                 <a id="previousChapter"
-                    href="content.php"
+                    href="/content.php"
                     class="chapter-nav min-w-0 bg-white/75 dark:bg-[#14161F]/80 backdrop-blur-xl border border-blue-100 dark:border-gray-800 rounded-2xl p-4 sm:p-5">
 
                     <span class="flex items-center gap-2 text-[9px] sm:text-[10px] uppercase tracking-[.15em] font-extrabold text-gray-400 dark:text-gray-500 mb-3">
@@ -610,7 +610,7 @@
                 </a>
 
                 <a id="nextChapter"
-                    href="epilogue.php"
+                    href="/epilogue.php"
                     class="chapter-nav min-w-0 text-right bg-white/75 dark:bg-[#14161F]/80 backdrop-blur-xl border border-blue-100 dark:border-gray-800 rounded-2xl p-4 sm:p-5">
 
                     <span class="flex items-center justify-end gap-2 text-[9px] sm:text-[10px] uppercase tracking-[.15em] font-extrabold text-gray-400 dark:text-gray-500 mb-3">
@@ -627,7 +627,7 @@
 
             </div>
 
-            <a href="content.php"
+            <a href="/content.php"
                 class="block text-center mt-7 text-xs font-semibold text-blue-600 dark:text-rose-400 hover:opacity-70 transition-opacity">
                 Return to all chapters
             </a>
@@ -646,7 +646,7 @@
                 Something went wrong.
             </p>
 
-            <a href="content.php"
+            <a href="/content.php"
                 class="inline-flex items-center justify-center px-5 py-3 rounded-xl bg-blue-600 text-white text-sm font-semibold hover:bg-blue-700 transition-colors">
                 Back to contents
             </a>
@@ -999,7 +999,7 @@
 
             if (previousChapter) {
                 previousLink.href =
-                    `reading.php?id=${encodeURIComponent(previousChapter.id)}`;
+                    `/reading.php?id=${encodeURIComponent(previousChapter.id)}`;
 
                 previousTitle.textContent =
                     previousChapter.title || 'Previous chapter';
@@ -1007,7 +1007,7 @@
                 previousLink.classList.remove('disabled');
                 previousLink.setAttribute('aria-label', `Previous chapter: ${previousChapter.title || ''}`);
             } else {
-                previousLink.href = 'content.php';
+                previousLink.href = '/content.php';
                 previousTitle.textContent = 'Back to contents';
 
                 previousLink.classList.add('disabled');
@@ -1018,7 +1018,7 @@
 
             if (nextChapter) {
                 nextLink.href =
-                    `reading.php?id=${encodeURIComponent(nextChapter.id)}`;
+                    `/reading.php?id=${encodeURIComponent(nextChapter.id)}`;
 
                 nextTitle.textContent =
                     nextChapter.title || 'Next chapter';
@@ -1026,7 +1026,7 @@
                 nextLink.classList.remove('disabled');
                 nextLink.setAttribute('aria-label', `Next chapter: ${nextChapter.title || ''}`);
             } else {
-                nextLink.href = 'epilogue.php';
+                nextLink.href = '/epilogue.php';
                 nextTitle.textContent = 'Read the epilogue';
 
                 nextLink.classList.remove('disabled');
