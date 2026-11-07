@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $enteredPin = implode('', $_POST['pin'] ?? []);
 
     if ($enteredPin === $correctPin) {
-        header("Location: /content.php");
+        header("Location: /content");
         exit;
     } else {
         $error = "Incorrect PIN. Please try again.";
