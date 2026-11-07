@@ -470,7 +470,7 @@
     <header class="site-header sticky top-0 z-50 border-b">
         <div class="max-w-5xl mx-auto px-5 sm:px-8 h-[68px] flex items-center justify-between">
 
-            <a href="/index.php" class="flex items-center gap-3 group">
+            <a href="/index" class="flex items-center gap-3 group">
                 <div class="w-9 h-9 rounded-xl flex items-center justify-center text-white font-serif font-bold text-lg shadow-lg"
                      style="background:var(--accent)">
                     G.
@@ -488,7 +488,7 @@
 
             <div class="flex items-center gap-4 sm:gap-6">
 
-                <a href="/index.php"
+                <a href="/index"
                    class="header-link hidden sm:block text-xs font-semibold opacity-60 hover:opacity-100">
                     ← Back to home
                 </a>
@@ -577,7 +577,7 @@
             </div>
 
 
-            <a href="/epilogue.php"
+            <a href="/epilogue"
                class="epilogue-card block rounded-[2rem] p-6 sm:p-9 group">
 
                 <div class="relative z-10">
@@ -877,7 +877,7 @@
 
             const link = document.createElement('a');
 
-            link.href = `/reading.php?id=${encodeURIComponent(chapterId)}`;
+            link.href = `/reading?id=${encodeURIComponent(chapterId)}`;
 
             link.className = 'chapter-card rounded-2xl p-4 sm:p-5 group';
 

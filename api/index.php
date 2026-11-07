@@ -547,7 +547,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <header class="site-header sticky top-0 z-40">
         <div class="max-w-7xl mx-auto px-5 sm:px-8 h-[68px] flex items-center justify-between">
 
-            <a href="index.php" class="flex items-center gap-3 group">
+            <a href="/index" class="flex items-center gap-3 group">
                 <div class="w-9 h-9 rounded-xl flex items-center justify-center text-white font-serif font-bold text-lg shadow-lg"
                      style="background:var(--accent)">
                     G.
