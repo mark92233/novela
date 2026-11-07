@@ -685,7 +685,7 @@
 
 
     <!-- DATABASE -->
-    <script src="database.js"></script>
+    <script src="/database.js"></script>
 
 
     <script>
